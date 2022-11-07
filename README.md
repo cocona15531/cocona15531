@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cocona15531.
-- 💻 My website is "coconaly.org".
 - 👀 I’m interested in programming and blog.
+- 💻 My website is "coconaly.org".
 - 🌱 I’m currently learning Swift.
 - ✋ Nice to meet you.
 
