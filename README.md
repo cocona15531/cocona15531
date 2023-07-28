@@ -3,7 +3,7 @@
 - 💻 My website is "[coconaly.org](https://coconaly.org/)".
 - 🌱 I’m currently learning Swift.
 - ✋ Nice to meet you.
-- [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otsukasatoshi&layout=compact)](https://github.com/otsukasatoshi)
+- [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocona15531&layout=compact)](https://github.com/cocona15531)
 
 
 <!---
