@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @cocona15531.
-- 👀 I’m interested in programming and blog.
-- 💻 My website is "[coconaly.org](https://coconaly.org/)".
-- 🌱 I’m currently learning Swift.
-- ✋ Nice to meet you.
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocona15531&layout=compact)](https://github.com/cocona15531)
 
 
